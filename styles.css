@@ -32,4 +32,5 @@ body {
   padding: 20px 10px;
   max-width: 1400px;
   margin: 0 auto;
+  object-fit: cover;
 }
